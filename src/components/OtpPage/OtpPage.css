@@ -1,0 +1,26 @@
+.otp-inputs {
+  display: flex;
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.otp-inputs input {
+  width: 42px;
+  height: 42px;
+  text-align: center;
+  font-size: 18px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+
+.resend {
+  font-size: 12px;
+  color: #777;
+  margin-top: 14px;
+}
+
+.resend span {
+  color: #0b1b6f;
+  font-weight: 600;
+  cursor: pointer;
+}
